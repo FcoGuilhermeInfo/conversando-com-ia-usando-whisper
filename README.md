@@ -105,8 +105,8 @@ Contribuições são bem-vindas!
 
 ## 📬 Contato
 
-* GitHub: seu perfil
-* LinkedIn: seu perfil
+* GitHub: https://github.com/FcoGuilhermeInfo
+* LinkedIn: https://www.linkedin.com/in/guilhermerodrigues-ti/
 
 ---
 
